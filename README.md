@@ -18,7 +18,8 @@ plagiat.zip был распакован и извлечен в то же мес�
 
 
 ### Пример input.txt
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/83032359/211210521-ff40f662-65ba-490c-b8cb-c7030206c570.png)
+
 
 
 # Особенности
