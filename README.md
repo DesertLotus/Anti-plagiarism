@@ -17,9 +17,11 @@ plagiat.zip был распакован и извлечен в то же мес�
 ![image](https://user-images.githubusercontent.com/83032359/211210386-7f7629ab-b596-4e6b-8df2-01c42d3df8e7.png)
 
 
-### Пример input.txt
+### Пример входного файла input.txt
 ![image](https://user-images.githubusercontent.com/83032359/211210521-ff40f662-65ba-490c-b8cb-c7030206c570.png)
 
+### Пример выходного файла scores.txt
+![image](https://user-images.githubusercontent.com/83032359/211210574-1680338d-1939-4f82-87c4-215ea420ea39.png)
 
 
 # Особенности
