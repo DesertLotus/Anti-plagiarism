@@ -31,5 +31,5 @@ plagiat.the zip was unpacked and extracted to the same location as compare.py
 
 • Implementation the console interface via argparse  
 •	Using ast to analyze the code  
-• Using the re regular expression library 
+• Using the re regular expression library  
 • The Wagner-Fischer algorithm and normalization were implemented in functions.py
