@@ -27,9 +27,9 @@ plagiat.the zip was unpacked and extracted to the same location as compare.py
 ![image](https://user-images.githubusercontent.com/83032359/211210776-b0273fe5-83e4-4d5e-91ec-fd1a2a42027c.png)
 
 
-# Особенности
+# Features
 
-• Реализовать консольный интерфейс через argparse  
-•	Для анализа кода использовал ast  
-• Использовал библиотеку регулярных выражений re  
-• Алгоритм Вагнера-Фишера и нормализация были реализованы в functions.py
+• Implementation the console interface via argparse  
+•	Using ast to analyze the code  
+• Using the re regular expression library 
+• The Wagner-Fischer algorithm and normalization were implemented in functions.py
