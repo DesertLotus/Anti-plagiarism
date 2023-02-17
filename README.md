@@ -12,7 +12,7 @@ To solve this problem, I used the Wagner-Fischer algorithm
 You need to implement the script compare.py , which accepts a file with a list of document pairs and the path to the output file. The script should compare pairs of documents and write to the output file an assessment of the similarity of program texts.
 
 ## Data
-plagiat.the zip was unpacked and extracted to the same location as compare.py
+plagiat.zip was unpacked and extracted to the same location as compare.py
 
 ![image](https://user-images.githubusercontent.com/83032359/211210386-7f7629ab-b596-4e6b-8df2-01c42d3df8e7.png)
 
